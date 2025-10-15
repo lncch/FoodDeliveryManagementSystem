@@ -12,7 +12,6 @@ public class FoodDeliverySystem {
     private ArrayList<Order> orders ;
     private int orderCounter;
 
-    بعدين سويتها كذا
     public class FoodDeliverySystem {
         // list of all persons (customers and drivers)
         private ArrayList<Person> persons;
