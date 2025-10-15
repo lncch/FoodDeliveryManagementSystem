@@ -1,11 +1,3 @@
-/*
-===============================
-- Name : Abdulmajeed Bazi
-- ID : 2436780
-- Sec : CS1
-===============================
-*/
-
 package FoodDeliveryManagementSystem;
 
 import java.util.*;
